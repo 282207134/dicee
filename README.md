@@ -1,4 +1,5 @@
-# lianxi7
+# dicee
+![image](https://github.com/282207134/dicee/assets/83965106/fea9d8fc-7e70-45d7-bebe-d9462ff98b1b)
 
 A new Flutter project.
 
