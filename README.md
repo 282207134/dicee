@@ -1,13 +1,10 @@
 # dicee
 ![image](https://github.com/282207134/dicee/assets/83965106/fea9d8fc-7e70-45d7-bebe-d9462ff98b1b)
-
-A new Flutter project.
+## Touching these dice points will change randomly
+![image](https://github.com/282207134/dicee/assets/83965106/b71f2a92-b865-4693-917f-618c0ff75d8e)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
